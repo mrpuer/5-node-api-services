@@ -1,6 +1,6 @@
 # Создаем простое API, используя express
 
-* `npm srart`
+* `npm start`
 * Send requests to [http://localhost:3000/api/rest/v1/users](http://localhost:3000/api/rest/v1/users) for REST API or [http://localhost:3000/api/rpc/v1/users](http://localhost:3000/api/rpc/v1/users) for RCP API
 
 ## Часть 1
